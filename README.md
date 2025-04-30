@@ -1,1 +1,1 @@
-# KDT_BE12_Java-OOP_Assignment
+# 객체지향 포커
